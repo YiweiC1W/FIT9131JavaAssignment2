@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=RandomNumber
+comment0.text=\n\ Generate\ a\ random\ number\ between\n\ the\ maximum\ \uFF08exclusive\uFF09\ and\ \n\ minimum\ \uFF08exclusive\uFF09\ you\ give\n\ @author\ Yiwei\ Chen\n\ @version\ 1.0\ 15\ April\ 2018\n
+comment1.params=min\ max
+comment1.target=RandomNumber(int,\ int)
+comment1.text=\n\ Creat\ a\ RandomNumber\n
+comment2.params=
+comment2.target=int\ getRandomNumber()
+comment2.text=\n\ return\ the\ randum\ number\n
+comment3.params=min\ max
+comment3.target=void\ setRandomNumber(int,\ int)
+comment3.text=\n\ Generate\ a\ random\ number\ between\n\ the\ maximum\ \uFF08exclusive\uFF09\ and\ \n\ minimum\ \uFF08exclusive\uFF09\ you\ give\n
+numComments=4

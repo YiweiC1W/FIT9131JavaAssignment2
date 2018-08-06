@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Menu
+comment0.text=\n\ passed\ menu\ options\ as\ an\ array\ of\ strings\ \n\ and\ it\ returns\ the\ option\ chosen\ as\ a\ char\ value\n\ @author\ Yiwei\ Chen\n\ @version\ 1.0\ 15\ May\ 2018\n
+comment1.params=menu
+comment1.target=Menu(java.util.ArrayList)
+comment1.text=\n\ Non-default\ Constructor\ for\ objects\ of\ class\ Menu\ with\ a\ given\ ArrayList\ of\ options\n
+comment2.params=
+comment2.target=Menu()
+comment2.text=\n\ Default\ Constructor\ for\ objects\ of\ class\ Menu\ with\ a\ given\ ArrayList\ of\ options\n
+comment3.params=
+comment3.target=void\ displayMenu()
+comment3.text=\n\ This\ method\ aims\ to\ display\ all\ options\ of\ a\ menu\n
+comment4.params=
+comment4.target=char\ getOption()
+comment4.text=\n\ This\ method\ aims\ to\ return\ the\ choice\ of\ the\ user\n
+comment5.params=
+comment5.target=void\ menuControl()
+comment5.text=\n\ This\ method\ aims\ to\ check\ and\ record\ user's\ choice\n
+numComments=6

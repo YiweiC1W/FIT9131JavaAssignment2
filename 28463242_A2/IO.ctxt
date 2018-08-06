@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=IO
+comment0.text=\n\ Generate\ a\ IO\ to\ import\ each\ line\ of\ \n\ a\ file\ with\ a\ given\ file\ name\n\ to\ an\ ArryaList\ of\ Srtring\ or\ to\ outport\n\ each\ String\ of\ an\ ArrayList\ to\ a\ file\ \n\ with\ a\ given\ file\ name.\ \ \n\ @author\ Yiwei\ Chen\n\ @version\ 3.0\ 15\ May\ 2018\n
+comment1.params=
+comment1.target=IO()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ IO\n
+comment2.params=filename
+comment2.target=java.util.ArrayList\ importFile(java.lang.String)
+comment2.text=\n\ This\ method\ aim\ to\ import\ each\ line\ of\ a\ file\ with\ a\ given\ file\ name\ to\ an\ ArryaList\ of\ Srtring.\ \ \ \n
+comment3.params=file\ filename
+comment3.target=void\ outportFile(java.util.ArrayList,\ java.lang.String)
+comment3.text=\n\ This\ method\ aim\ to\ outport\ each\ String\ of\ an\ ArrayList\ to\ a\ file\ with\ a\ given\ file\ name.\ \ \n
+numComments=4

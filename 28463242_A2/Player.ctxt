@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Player
+comment0.text=\n\ Generate\ and\ control\ a\ Player\n\ with\ his/her\ name\ and\ goals\n\ @author\ Yiwei\ Chen\n\ @version\ 3.0\ 15\ May\ 2018\n
+comment1.params=
+comment1.target=Player()
+comment1.text=\n\ Defualt\ constructor\ for\ objects\ of\ class\ Player\n
+comment2.params=name\ goals
+comment2.target=Player(java.lang.String,\ int)
+comment2.text=\n\ Non-defualt\ constructor\ for\ objects\ of\ class\ Player\n
+comment3.params=
+comment3.target=int\ getGoals()
+comment3.text=\n\ The\ method\ of\ getting\ the\ goals\ of\ preliminary\n
+comment4.params=
+comment4.target=java.lang.String\ getName()
+comment4.text=\n\ The\ method\ of\ getting\ a\ name.\n
+comment5.params=goals
+comment5.target=boolean\ isValidGoals(int)
+comment5.text=\n\ \ This\ method\ is\ the\ validation\ for\ goals\n
+comment6.params=goals
+comment6.target=void\ setGoals(int)
+comment6.text=\n\ The\ method\ of\ setting\ the\ goals\ of\ preliminary\n
+comment7.params=name
+comment7.target=void\ setName(java.lang.String)
+comment7.text=\n\ The\ method\ of\ setting\ a\ name.\n
+numComments=8
